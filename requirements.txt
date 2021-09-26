@@ -1,0 +1,9 @@
+tgcrypto
+youtube_dl
+pafy
+pytube
+youtube-search-python
+asyncio
+pytgcalls==3.0.0.dev19
+youtube_search
+git+https://github.com/pyrogram/pyrogram@master
